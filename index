@@ -13,13 +13,13 @@
 <header>
 	<div>
 	<h1>Alex Malcolm</h>
-	<h2><img src = "portfolio/hackerman.jpeg" width = "600"></h2>
+	<h2><img src = "portfolio/hackerman.jpg" width = "600"></h2>
 	</div>
 	<div>
 	<nav>
-	<a href="#intro">intro</a>
-	<a href="#about">about</a>
-	<a href="#contact">contact</a>
+	<a href="#intro">Intro</a>
+	<a href="#about">About</a>
+	<a href="#contact">Contact</a>
 	</nav>
 	</div>
 </header>
@@ -56,6 +56,7 @@
 	<h3>Conact</h3>
 	<p><a href = "mailto:alexmalc16@gmail.com">Email</a></p>
 	<p><a href = "https://github.com/Alex-Shmalc" target="_blank">Github</a></p>
+	<p><a href = "https://www.youtube.com/watch?v=_wXefXHkk3M" target="_blank">I don't actually have a linkedin yet so this just opens a new tab to a good jazz album on youtube<a/></p>
 	</article>
 	</div>
 	
