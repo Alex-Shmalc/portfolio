@@ -1,19 +1,20 @@
 header{
-  color: 9AD5CF;
+  color: black;
+  background-color: 993955;
 }
 
 body {
   margin: 50;
 
   text-align: center;
-    background-color: b744b9;}
+    background-color: A3C3D9;}
 p { 
-  color: white;
+  color: black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
 
   div{
     margin: 30;
-    background-color: A379C9;
+    background-color: 993955;
   }
 
 
