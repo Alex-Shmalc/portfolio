@@ -5,6 +5,57 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width">
 	<title>Portfolio</title>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" />
 	<link href="style.css" rel="stylesheet" type="text/css" />
 </head>
+
+<body>
+
+<header>
+	<div>
+	<h1>Alex Malcolm</h>
+	<p>HACKERMAN</p>
+	</div>
+	<div>
+	<nav>
+	<a href="#intro">intro</a>
+	<a href="#about">about</a>
+	<a href="#contact">contact</a>
+	</nav>
+	</div>
+</header>
+
+<main>
+	<section id = "intro">
+	<div>
+	<article>
+	<h2>Introduction</h2>
+	<section>
+	<p>Hi there, my name is Alex Malcolm. I am 27 years old and live in Tampa, FL. I am currently working for a printing company as a machine technician. I also, to this day, can't spell technician properly on the first try!
+	</p>
+	</section>
+	</article>
+	</div>
+	
+	<section id = "about">
+	<div>
+	<article>
+	<h2>About Me</h2>
+	<section>
+	<p>I'm very interested in what I've learned about web development so far. I find the mentality when approaching coding very similar to the mentality needed when fixing complicated machinery. I'm excited to finish the program and get some real world experience collaborating with others on development.
+	</p>
+	</section>
+	<section>
+	<p>Outside of web development I enjoy playing music and had until recently been creating guitar pedals and modifying vintage synths. I enjoy tinkering with the circuitry and see what sounds you can make.
+	</p>
+	</section>
+	</div>
+	
+	<section id = "contact">
+	<div>
+	<article>
+	<h2>Conact</h2>
+	<section>
+	<h4>Github</h4>
+	<p>
+</body>
+</html>
