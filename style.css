@@ -1,1 +1,32 @@
+header{
+  color: 9AD5CF;
+}
 
+body {
+  margin: 50;
+
+  text-align: center;
+    background-color: b744b9;}
+p { 
+  color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+  div{
+    margin: 30;
+    background-color: A379C9;
+  }
+
+
+  h2{
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+  
+  h3, nav{
+    background-color: ACDDE7;
+  }
+
+  footer{
+    font-size: 12;
+  }
+  
