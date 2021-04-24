@@ -53,17 +53,15 @@
 	<section id = "contact">
 	<div>
 	<article>
-	<h2>Conact</h2>
-	<nav>
-	<a href="#github">Github</a>
-	<a href="#email">Email</a>
-	</nav>
+	<h3>Conact</h3>
+	<p><a href = "mailto:alexmalc16@gmail.com">Email</a></p>
+	<p><a href = "https://github.com/Alex-Shmalc" target="_blank">Github</a></p>
 	</article>
 	</div>
 	
 </body>
 
 <footer>
-It said I needed a footer so heres a footer. The more I look at footer the weirder it looks. footer. hm.
+It said I needed a footer so heres a footer. I know you typically want a footer to be contact but I thought the contact looked abit weird down here so I made the footer this instead. Also the more I look at footer the weirder it looks. footer. hm.
 </footer>
 </html>
