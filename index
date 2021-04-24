@@ -54,8 +54,16 @@
 	<div>
 	<article>
 	<h2>Conact</h2>
-	<section>
-	<h4>Github</h4>
-	<p>
+	<nav>
+	<a href="#github">Github</a>
+	<a href="#email">Email</a>
+	</nav>
+	</article>
+	</div>
+	
 </body>
+
+<footer>
+It said I needed a footer so heres a footer. The more I look at footer the weirder it looks. footer. hm.
+</footer>
 </html>
