@@ -1,20 +1,25 @@
 header{
-  color: black;
-  background-color: 993955;
+  color: Black;
+  background-color: CCD6EB;
+  padding: 1%;
 }
 
 body {
   margin: 50;
 
   text-align: center;
-    background-color: A3C3D9;}
+    background-color: 993955;}
 p { 
-  color: black;
+  color:black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
-
+li{
+  text-align: left;
+}
+/* this is a comment is css */
   div{
     margin: 30;
-    background-color: 993955;
+    background-color: E9ECF5;
+    padding: 5%;
   }
 
 
@@ -22,12 +27,33 @@ p {
     font-family: Arial, Helvetica, sans-serif;
 
   }
-  
+  /* this is also a comment */
   h3, nav{
-    background-color: ACDDE7;
+    background-color: 9ECE9A;
+    height: 20;
   }
+  a:link{
+    color: red;
+  }
+
+  :a:visited{
+    color: pink;
+  }
+
+  a:hover{
+    color:goldenrod;
+  }
+
+a:active{
+  color:aqua;
+}
 
   footer{
     font-size: 12;
   }
   
+  hr{
+    height: 5px;
+    background-color: black;
+    border-color: black;
+  }
