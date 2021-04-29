@@ -28,7 +28,7 @@ li{
 
   }
   /* this is also a comment */
-  h3, nav{
+  h3,{
     background-color: 9ECE9A;
     height: 30;
   }
