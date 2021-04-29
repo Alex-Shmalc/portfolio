@@ -30,10 +30,10 @@ li{
   /* this is also a comment */
   h3, nav{
     background-color: 9ECE9A;
-    height: 20;
+    height: 30;
   }
   a:link{
-    color: red;
+    color:blue;
   }
 
   :a:visited{
