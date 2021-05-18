@@ -1,6 +1,6 @@
 header{
-  color: Black;
-  background-color: CCD6EB;
+  color: #black;
+  background-color: #CCD6EB;
   padding: 1%;
 }
 
@@ -9,9 +9,9 @@ body {
   margin: 50;
 
   text-align: center;
-    background-color: 993955;}
+    background-color: #993955;}
 p { 
-  color:black;
+  color:#black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
 li{
   text-align: left;
@@ -19,7 +19,7 @@ li{
 /* this is a comment is css */
   div{
     margin: 30;
-    background-color: E9ECF5;
+    background-color: #E9ECF5;
     padding: 5%;
   }
 
@@ -30,27 +30,27 @@ li{
   }
   /* this is also a comment */
   h3,{
-    background-color: 9ECE9A;
+    background-color: #9ECE9A;
     height: 30;
   }
 
-  nav{background-color: 9ECE9A;
+  nav{background-color: #9ECE9A;
 
   }
   a:link{
-    color:blue;
+    color:#blue;
   }
 
   :a:visited{
-    color: pink;
+    color: #pink;
   }
 
   a:hover{
-    color:goldenrod;
+    color:#goldenrod;
   }
 
 a:active{
-  color:aqua;
+  color:#aqua;
 }
 
   footer{
@@ -59,6 +59,6 @@ a:active{
   
   hr{
     height: 5px;
-    background-color: black;
-    border-color: black;
+    background-color: #black;
+    border-color: #black;
   }
